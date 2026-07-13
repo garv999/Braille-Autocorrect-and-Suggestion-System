@@ -76,7 +76,7 @@ The system will then try its best to suggest what word you meant!
 * Suggests words from the dictionary if you make a small mistake.
 * It's built with a clear structure, so hopefully, it's easy to understand.
 
-## Things We Could Do Next (Ideas!)
+<!-- ## Things We Could Do Next (Ideas!)
 
 🌟 Future Improvements:
 
@@ -84,7 +84,7 @@ The system will then try its best to suggest what word you meant!
 🧠 Handle common Braille input mistakes more intelligently 
 📚 Support for Grade 2 Braille (contractions) 
 🎨 Build a simple Graphical User Interface (GUI) 
-✨ Add user learning and personalized suggestions
+✨ Add user learning and personalized suggestions -->
 
 Hope you find it useful!
 
